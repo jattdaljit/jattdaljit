@@ -2,7 +2,7 @@
 
 ###### I am Software Engineer at EPAM Systems with experience in building application through JAVA, Angular and Flutter. 
 
-* I have experince in building microservices through Spring Cloud.
+* I have good knowledge on building microservices through Spring Cloud.
 
 * I am well versed with Docker, Kafka, Amazon Web Services and Jenkins CI/CD
 
